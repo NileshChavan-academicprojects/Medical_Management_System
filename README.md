@@ -15,12 +15,7 @@ A modern, Tkinter-based desktop application for managing a medical store’s inv
 1. [Overview](#overview)
 2. [Features](#features)
 3. [Installation & Requirements](#installation--requirements)
-4. [Database Setup](#database-setup)
-5. [Usage](#usage)
-6. [Project Structure](#project-structure)
-7. [Screenshot](#screenshot)
-8. [Contributing](#contributing)
-9. [License](#license)
+
 
 ---
 

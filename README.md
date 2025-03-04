@@ -72,7 +72,7 @@ It provides a user-friendly interface with a **navigation panel** and a **modern
 **Recommended Steps**:
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/MedicalManagementSystem.git
+git clone https://github.com/NileshChavan-academicprojects/Medical_Management_System
 
 # 2. Navigate to the project directory
 cd MedicalManagementSystem
@@ -80,9 +80,6 @@ cd MedicalManagementSystem
 # 3. (Optional) Create and activate a virtual environment
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
-
-# 4. Install dependencies (if you have any in requirements.txt)
-pip install -r requirements.txt
 
 # 5. Run the application
 python main.py

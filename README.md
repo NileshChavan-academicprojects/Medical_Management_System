@@ -6,7 +6,7 @@ A modern, Tkinter-based desktop application for managing a medical store’s inv
 
 > *Screenshot: The “Stock Maintenance” page from the Medical Management System.*
 
-![Billing Screenshot](image.jpg)
+![Billing Screenshot](image2.jpg)
 
 > *Screenshot: The “Billing” page from the Medical Management System.*
 
